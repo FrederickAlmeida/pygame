@@ -1,2 +1,2 @@
 # pygame
- jogo para o projeto de ip
+jogo para aplicar os conceitos básicos do pygame
